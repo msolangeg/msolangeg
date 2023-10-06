@@ -6,7 +6,7 @@
 </div>  
   
 
-### **<div align="center">Hi!🖖 Mi nombre es Solange 👨‍💻, soy desarrolladora Full Stack. Vivo en Buenos Aires, Argentina. ¡Soy campeona del mundo!</div>**  
+### **<div align="center">Hi!🖖 Mi nombre es Solange 👨‍💻, soy desarrolladora Full Stack. Vivo en Buenos Aires, Argentina. </div>**  
   
 
 - 🚀Me encuentro finalizando mi carrera Full Stack Developer en SoyHenry.  

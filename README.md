@@ -2,7 +2,6 @@
 
 ### Full Stack Developer || JS || React || Node JS || Express || Sequelize || Redux || PostgreSQL    
 <div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
   
 
@@ -17,7 +16,6 @@
 
 - ⚡ En busca de mi crecimiento profesional.   
   
-
 <br/>  
 
 

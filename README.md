@@ -87,14 +87,8 @@ Full Stack Developer || JS || React || Node JS || Express || Sequelize || Redux 
   <a href="https://discord.com/MSGcamp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="35" alt="discord logo"  />
   </a>
-  <a href="marina.solange.g@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/marina-solange-garcia/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="@MSGcamp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="68" height="35" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/qr/DN5JPUF6ZBAQG1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="68" height="35" alt="whatsapp logo"  />

@@ -1,61 +1,109 @@
 
 
-### Full Stack Developer || JS || React || Node JS || Express || Sequelize || Redux || PostgreSQL    
+
 <div align="center">
-</div>  
-  
-
-### **<div align="center">Hi!🖖 Mi nombre es Solange 👨‍💻, soy desarrolladora Full Stack. Vivo en Buenos Aires, Argentina. </div>**  
-  
-
-- 🚀Me encuentro finalizando mi carrera Full Stack Developer en SoyHenry.  
-  
-
-- 🌌 En creación de mi propio emprendimiento digital, junto con un desarrollador Full Stack y un diseñador gráfico, Aurora design media.   
-  
-
-- ⚡ En busca de mi crecimiento profesional.   
-  
-<br/>  
-
-
-## My Skill Set  
-
-
-### Hard Skill  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
+Full Stack Developer || JS || React || Node JS || Express || Sequelize || Redux || PostgreSQL    
 </div>  
 
-<br/>  
 
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/msolangeg" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/marina-solange-garcía-0b951113a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/aurora.designmedia/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <img height="200" src="https://res.cloudinary.com/dv7kzlqy6/image/upload/v1697927448/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f62613863373035656464326265643061323864393435_tzamrx.gif"  />
+</div>
+
+<h2 align="center">Hi 👋! Mi nombre Solange, soy desarrolladora Full Stack 👩🏻‍💻, Vivo en Buenos Aires, Argentina.</h2>
+
+###
+
+<h3 align="left">Algunas curiosidades sobre mi:</h3>
+
+###
+
+<p align="left" >🚀He finalizado mis estudios como Full Stack Developer en SoyHenry.<br><br>🌌 Me encuentro trabajando en la creación de mi propio emprendimiento digital, junto con otro desarrollador Full Stack y un diseñador gráfico, "Aurora design media".<br><br>⚡ Estoy en busca de mi crecimiento profesional.<br><br>👩🏻‍🎨Soy apasionada del diseño gráfico y web, en constante aprendizaje. <br><br>🖥️En el proyecto final de Henry (ecommerce de ropa deportiva femenina) el gran desafío ha sido realizar el dashboard del administrador y el register de usuarios, aprendí a implentar formik y yup para validaciones del mismo. Como también desarrollé gran parte del UX/UI, create producto (en el cual implementé el cloudinary), toda la home, el navbar, preguntas frencuentes y about.<br><br>🐕Madre de 2 perrhijos Bobi y Bills.</p>
+
+###
+
+<h3 align="left">Objetivos:</h3>
+
+###
+
+<p align="left">Me encuentro en busca de nuevas oportunidades para trabajar en un equipo de desarrollo de software innovador que me permita seguir aprendiendo y creciendo profesionalmente. Potenciar mis habilidades teach. Tengo mucho interés por aprender Phyton y React Native para aplicaciones móbiles.  Me considero una persona con muchisimas habilidades soft, adaptabilidad al cambio, como también organizacional, sé gestionar muy bien mis tiempos y recursos. <br><br>✉ Puedes contactarme vía email: marina.solange.g@gmail.com</p>
+
+###
+
+<h3 align="left">Teach Skill:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">Conecta conmigo:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/aurora.designmedia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="68" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/MSGcamp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="35" alt="discord logo"  />
+  </a>
+  <a href="marina.solange.g@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/marina-solange-garcia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="@MSGcamp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="68" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/qr/DN5JPUF6ZBAQG1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="68" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+###
   
 
 <br/>  

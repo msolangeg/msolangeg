@@ -1,16 +1,9 @@
 
-
-
 <div align="center">
-Full Stack Developer || JS || React || Node JS || Express || Sequelize || Redux || PostgreSQL    
-</div>  
-
-
-<div align="center">
-  <img height="200" src="https://res.cloudinary.com/dv7kzlqy6/image/upload/v1697927448/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f62613863373035656464326265643061323864393435_tzamrx.gif"  />
+  <img height="400" src="https://res.cloudinary.com/dv7kzlqy6/image/upload/v1707756533/githubprofile_u8q9b6.png"  />
 </div>
 
-<h2 align="center">Hi 👋! Mi nombre Solange, soy desarrolladora Full Stack 👩🏻‍💻, Vivo en Buenos Aires, Argentina.</h2>
+<h2 align="center">Hi 👋! Mi nombre es Solange, soy desarrolladora Full Stack 👩🏻‍💻, Vivo en Buenos Aires, Argentina.</h2>
 
 ###
 
@@ -18,7 +11,7 @@ Full Stack Developer || JS || React || Node JS || Express || Sequelize || Redux 
 
 ###
 
-<p align="left" >🚀He finalizado mis estudios como Full Stack Developer en SoyHenry.<br><br>🌌 Me encuentro trabajando en la creación de mi propio emprendimiento digital, junto con otro desarrollador Full Stack y un diseñador gráfico, "Aurora design media".<br><br>⚡ Estoy en busca de mi crecimiento profesional.<br><br>👩🏻‍🎨Soy apasionada del diseño gráfico y web, en constante aprendizaje. <br><br>🖥️En el proyecto final de Henry (ecommerce de ropa deportiva femenina) el gran desafío ha sido realizar el dashboard del administrador y el register de usuarios, aprendí a implentar formik y yup para validaciones del mismo. Como también desarrollé gran parte del UX/UI, create producto (en el cual implementé el cloudinary), toda la home, el navbar, preguntas frencuentes y about.<br><br>🐕Madre de 2 perrhijos Bobi y Bills.</p>
+<p align="left" >🚀He finalizado mis estudios como Full Stack Developer en SoyHenry.<br><br>🌌 Me encuentro trabajando en la creación de mi propio emprendimiento digital, junto con otro desarrollador Full Stack y un diseñador gráfico, "Aurora design media".<br><br>⚡ Estoy en busca de mi crecimiento profesional.<br><br>👩🏻‍🎨Soy apasionada del diseño gráfico y web, en constante aprendizaje. <br><br>🖥️En el proyecto final de Henry (ecommerce de ropa deportiva femenina) el gran desafío ha sido realizar el dashboard del administrador y el register de usuarios, aprendí a implentar formik y yup para validaciones del mismo. Como también desarrollé gran parte del UX/UI, create producto (en el cual implementé el cloudinary), todo el home, el navbar, preguntas frencuentes y about.<br><br>🐕Madre de 2 perrhijos Bobi y Bills.</p>
 
 ###
 
@@ -26,7 +19,7 @@ Full Stack Developer || JS || React || Node JS || Express || Sequelize || Redux 
 
 ###
 
-<p align="left">Me encuentro en busca de nuevas oportunidades para trabajar en un equipo de desarrollo de software innovador que me permita seguir aprendiendo y creciendo profesionalmente. Potenciar mis habilidades teach. Tengo mucho interés por aprender Phyton y React Native para aplicaciones móbiles.  Me considero una persona con muchisimas habilidades soft, adaptabilidad al cambio, como también organizacional, sé gestionar muy bien mis tiempos y recursos. <br><br>✉ Puedes contactarme vía email: marina.solange.g@gmail.com</p>
+<p align="left">Me encuentro en busca de nuevas oportunidades para trabajar en un equipo de desarrollo de software innovador que me permita seguir aprendiendo y creciendo profesionalmente. Potenciar mis habilidades teach. Tengo mucho interés por aprender React Native para aplicaciones móbiles. Me encuentro incursionadno en Python y typescript. Me considero una persona con muchisimas habilidades soft, adaptabilidad al cambio, como también organizacional, sé gestionar muy bien mis tiempos y recursos. <br><br>✉ Puedes contactarme vía email: marina.solange.g@gmail.com<br><br> <a href="https://portfolio-msg.vercel.app/">Te invito a ingresar a mi PORTFOLIO</a></p>
 
 ###
 
@@ -98,7 +91,10 @@ Full Stack Developer || JS || React || Node JS || Express || Sequelize || Redux 
 ###
 
 ###
-  
+
+[![Msolangeg github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msolangeg&bg_color=e5e5e5&line=ede863&point=252525&title_color=252525&color=252525)](https://github.com/msolangeg/github-readme-activity-graph) 
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <br/>  
 

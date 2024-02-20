@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="400" src="https://res.cloudinary.com/dv7kzlqy6/image/upload/v1707756533/githubprofile_u8q9b6.png"  />
+  <img height="400" src="https://res.cloudinary.com/dv7kzlqy6/image/upload/v1708442082/githubprofile_rffn6j.png"  />
 </div>
 
 <h2 align="center">Hi 👋! Mi nombre es Solange, soy desarrolladora Full Stack 👩🏻‍💻, Vivo en Buenos Aires, Argentina.</h2>
